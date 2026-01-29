@@ -2,6 +2,9 @@
 
 using namespace std;
 
+string reverse(string i);
+void genNum();
+
 int main(){
     genNum();
     return 0;
